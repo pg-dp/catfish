@@ -1,3 +1,5 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/528e6dc8c95e4f55af09116ed8e8793e)](https://www.codacy.com/gh/pg-dp/catfish?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pg-dp/catfish&amp;utm_campaign=Badge_Grade)
+
 # Catfish
 
 Data cleaning component.
